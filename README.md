@@ -17,11 +17,11 @@ ToxFree is a clean product scanner for anyone cutting hormone disruptors and tox
 </td></tr></table>
 
 <table><tr>
-<td width="96" valign="top"><a href="https://apps.apple.com/us/app/free-up-storage/id6799964411"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/dc/78/0ddc78fb-3490-fa00-0e61-881b1811fbde/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg" width="80" alt="Free Up Storage icon"></a></td>
+<td width="96" valign="top"><a href="https://apps.apple.com/us/app/free-up-storage/id6799964411"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/04/01/7304013e-e4e8-08fa-8f56-94c604fe1b48/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg" width="80" alt="Free Up Storage icon"></a></td>
 <td valign="top">
 <b><a href="https://apps.apple.com/us/app/free-up-storage/id6799964411">Free Up Storage</a></b> · Utilities · ★ 5.0 (4 ratings)<br>
 Free up gigabytes on your iPhone in seconds. · Free Up Storage finds the photos and videos quietly eating your space — so you reclaim storage without losing the moments that matter. · Duplicate &amp; similar photos — spots copies and bursts,…<br>
-<sub>Version 1.1.3, updated 2026-10-23 · What's new: Bug fixes and stability improvements.</sub>
+<sub>Version 1.1.4, updated 2026-10-27 · What's new: Faster, smoother contact lists, even with thousands of contacts. · Clearer messages when the App Store can't be reached. · Bug fixes and stability improvements.</sub>
 </td></tr></table>
 
 <table><tr>
