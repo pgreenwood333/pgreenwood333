@@ -9,11 +9,11 @@ Claude skills I've built: [claude-skills](https://github.com/pgreenwood333/claud
 ## My apps on the App Store (5)
 
 <table><tr>
-<td width="96" valign="top"><a href="https://apps.apple.com/us/app/toxfree-clean-product-scanner/id6806373995"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/70/cc/d970cc19-26ee-3540-285d-e18f28f0d3ad/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" width="80" alt="ToxFree: Clean Product Scanner icon"></a></td>
+<td width="96" valign="top"><a href="https://apps.apple.com/us/app/toxfree-clean-product-scanner/id6806373995"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/e0/1b/77e01b2a-831b-d628-a94e-31e8112bc681/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" width="80" alt="ToxFree: Clean Product Scanner icon"></a></td>
 <td valign="top">
 <b><a href="https://apps.apple.com/us/app/toxfree-clean-product-scanner/id6806373995">ToxFree: Clean Product Scanner</a></b> · Health &amp; Fitness · ★ 5.0 (3 ratings)<br>
 ToxFree is a clean product scanner for anyone cutting hormone disruptors and toxins out of their routine. · Scan the barcode or ingredient label on your skincare, makeup, body care, hair care or supplements. In seconds you get a 0–10…<br>
-<sub>Version 1.2.0, updated 2026-10-06 · What's new: Hormone flags on every scan: ingredients linked to hormone disruption are named first · Rebuilt scoring, graded against EU and US regulator decisions · Morning…</sub>
+<sub>Version 1.3.0, updated 2026-10-27 · What's new: Cleaning and household products: we now pull the full ingredient list straight from the brand (P&amp;G, Lysol and more), so far fewer scans come back incomplete ·…</sub>
 </td></tr></table>
 
 <table><tr>
