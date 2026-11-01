@@ -43,12 +43,12 @@ A deep, low rumble — heavy rain heard from inside, or thunder a long way off. 
 <table><tr>
 <td width="96" valign="top"><a href="https://apps.apple.com/us/app/solfeggio-frequencies-528-hz/id6782245879"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/99/36/0199361e-51f7-b30b-01c6-9416628ecc4a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" width="80" alt="Solfeggio Frequencies: 528 Hz icon"></a></td>
 <td valign="top">
-<b><a href="https://apps.apple.com/us/app/solfeggio-frequencies-528-hz/id6782245879">Solfeggio Frequencies: 528 Hz</a></b> · Health &amp; Fitness · ★ 5.0 (12 ratings)<br>
+<b><a href="https://apps.apple.com/us/app/solfeggio-frequencies-528-hz/id6782245879">Solfeggio Frequencies: 528 Hz</a></b> · Health &amp; Fitness · ★ 4.8 (13 ratings)<br>
 Solfeggio Frequencies brings the nine classical solfeggio tones, from 174 Hz to 963 Hz, together with binaural beats, colored noise, nature sounds and calm music. Build your own sound space for meditation, sleep and quiet focus. · Tune…<br>
 <sub>Version 1.2.5, updated 2026-10-22 · What's new: New Lifetime option: pay once, no subscription · Smoother paywall and purchase flow · Bug fixes and performance improvements</sub>
 </td></tr></table>
 
-<sub>App list refreshes automatically from the App Store · last checked October 2026</sub>
+<sub>App list refreshes automatically from the App Store · last checked November 2026</sub>
 
 <!-- APPS:END -->
 
