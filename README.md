@@ -33,11 +33,11 @@ Made for brains that know exactly what to do and still can't start. · ADHD Orga
 </td></tr></table>
 
 <table><tr>
-<td width="96" valign="top"><a href="https://apps.apple.com/us/app/brown-noise-for-sleep-relax/id6798064404"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/e2/6c/36e26c6c-59ef-12d6-a1f0-d17a649b7b87/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" width="80" alt="Brown Noise For Sleep: Relax icon"></a></td>
+<td width="96" valign="top"><a href="https://apps.apple.com/us/app/brown-noise-for-sleep-relax/id6798064404"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/16/34/781634cc-e514-ae62-82d3-eb4b72817d25/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" width="80" alt="Brown Noise For Sleep: Relax icon"></a></td>
 <td valign="top">
 <b><a href="https://apps.apple.com/us/app/brown-noise-for-sleep-relax/id6798064404">Brown Noise For Sleep: Relax</a></b> · Health &amp; Fitness · ★ 5.0 (7 ratings)<br>
 A deep, low rumble — heavy rain heard from inside, or thunder a long way off. Its energy sits in the low frequencies and falls away as pitch rises, which is what makes it feel warmer and softer than the bright hiss of white noise. It's the…<br>
-<sub>Version 1.2.0, updated 2026-09-29 · What's new: Brown Noise for Sleep: Relax · Brown noise is now free to listen to every day — no subscription needed to start · Choose your depth: Standard, Medium or Deep…</sub>
+<sub>Version 1.2.1, updated 2026-11-04 · What's new: Playback and stability improvements</sub>
 </td></tr></table>
 
 <table><tr>
