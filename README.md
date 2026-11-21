@@ -27,7 +27,7 @@ Free up gigabytes on your iPhone in seconds. · Free Up Storage finds the photos
 <table><tr>
 <td width="96" valign="top"><a href="https://apps.apple.com/us/app/study-timer-studyscape/id6792306693"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/ed/a3/adeda3ad-8bfc-893c-0b98-2bbf2ceaf7bd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg" width="80" alt="Study Timer: Studyscape icon"></a></td>
 <td valign="top">
-<b><a href="https://apps.apple.com/us/app/study-timer-studyscape/id6792306693">Study Timer: Studyscape</a></b> · Productivity · ★ 5.0 (7 ratings)<br>
+<b><a href="https://apps.apple.com/us/app/study-timer-studyscape/id6792306693">Study Timer: Studyscape</a></b> · Productivity · New<br>
 Studyscape is a study timer that puts you somewhere calm. Pick a scene, set how long you want to work, and press Start. The scene loops on your screen with its own sound until the timer ends. · Fireplace cabin (free), Beach waves, Jungle…<br>
 <sub>Version 2.0.0, updated 2026-11-20 · What's new: We have a new name: Studyscape. · This is the same app, with the same account and everything you saved. We rebuilt it around the part people used most: the…</sub>
 </td></tr></table>
